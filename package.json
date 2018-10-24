@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "git@github.com:WebCloud/lighthouse-ci-demo.git",
   "author": "Vinicius Dallacqua <vinicius.dallacqua@klarna.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "chrome-launcher": "^0.10.5",
+    "lighthouse": "^3.2.1",
+    "lighthouse-logger": "^1.1.0",
+    "puppeteer": "^1.9.0"
+  }
 }
