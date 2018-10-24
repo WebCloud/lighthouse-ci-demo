@@ -1,0 +1,9 @@
+{
+  "name": "lighthouse-ci-demo",
+  "version": "1.0.0",
+  "description": "Example of usage of Lighthouse CLI as performance governance tool",
+  "main": "index.js",
+  "repository": "git@github.com:WebCloud/lighthouse-ci-demo.git",
+  "author": "Vinicius Dallacqua <vinicius.dallacqua@klarna.com>",
+  "license": "MIT"
+}
